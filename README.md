@@ -1,5 +1,15 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Amanda Casemiro
 
+Estou estudando no cep
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+amanda.casemiro@escola.pr.gov.br
+
+@amandacasemiro
+![](https://www.icegif.com/wp-content/uploads/2023/03/icegif-1393.gif)
 <!--
 **amandacasemiro/amandacasemiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
